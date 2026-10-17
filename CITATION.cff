@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use or refer to this thesis, please cite it as below."
+title: "Implementation of an Interactive Tool with a Graphical User Interface for Evaluation of System Performance Measures"
+authors:
+  - family-names: Askov
+    given-names: Danijel
+abstract: >-
+  У оквиру овог рада реализован је вишеплатформски педагошки софтверски
+  алат са графичким корисничким интерфејсом за лако и интерактивно креирање
+  модела система са редовима за чекање и евалуацију мера перформанси таквих
+  система коришћењем (1) симулација базираних на дискретним догађајима и
+  (2) добро познатих аналитичких метода. Поред тога, имплементирана је
+  „шта-ако” анализа која омогућава кориснику да стекне увид у то како
+  промене одређених параметара у моделу утичу на мере перформанси система.
+keywords:
+  - системи са редовима за чекање
+  - евалуација мера перформанси
+  - симулација базирана на дискретним догађајима
+  - Џексонов алгоритам
+  - Гордон-Њуелов алгоритам
+license: CC-BY-4.0
+url: "https://github.com/danijelaskov/bsc-thesis"
+preferred-citation:
+  type: thesis
+  thesis-type: "BSc thesis"
+  title: "Implementation of an Interactive Tool with a Graphical User Interface for Evaluation of System Performance Measures"
+  authors:
+    - family-names: Askov
+      given-names: Danijel
+  institution:
+    name: "University of Belgrade, School of Electrical Engineering"
+    city: Belgrade
+    country: RS
+  year: 2026
+  languages:
+    - srp
+  url: "https://github.com/danijelaskov/bsc-thesis"
