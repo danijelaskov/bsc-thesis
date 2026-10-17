@@ -14,7 +14,6 @@ This thesis presents a cross-platform educational software tool with a graphical
 ## Related
 
 - **VIPET** v1.0.0, the version of the application described in this thesis: <https://github.com/danijelaskov/vipet/releases/tag/v1.0.0> (latest version: <https://github.com/danijelaskov/vipet>)
-- Slides from the thesis defense: <https://github.com/danijelaskov/bsc-thesis-presentation>
 
 ## How to cite
 
