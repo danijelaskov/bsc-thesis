@@ -19,6 +19,7 @@ keywords:
   - Џексонов алгоритам
   - Гордон-Њуелов алгоритам
 license: CC-BY-4.0
+doi: 10.5281/zenodo.23438279
 url: "https://github.com/danijelaskov/bsc-thesis"
 preferred-citation:
   type: thesis
@@ -34,4 +35,5 @@ preferred-citation:
   year: 2026
   languages:
     - srp
-  url: "https://github.com/danijelaskov/bsc-thesis"
+  doi: 10.5281/zenodo.23438279
+  url: "https://doi.org/10.5281/zenodo.23438279"

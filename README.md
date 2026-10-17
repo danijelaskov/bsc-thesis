@@ -1,5 +1,7 @@
 # Implementation of an Interactive Tool with a Graphical User Interface for Evaluation of System Performance Measures
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23438279.svg)](https://doi.org/10.5281/zenodo.23438279)
+
 BSc thesis by **Danijel Askov**, University of Belgrade, School of Electrical Engineering.
 Mentor: prof. dr Jelica Protić.
 
@@ -27,7 +29,8 @@ Citation metadata is provided in [`CITATION.cff`](CITATION.cff); on GitHub, use 
   address     = {Belgrade, Serbia},
   year        = {2026},
   language    = {serbian},
-  url         = {https://github.com/danijelaskov/bsc-thesis}
+  doi         = {10.5281/zenodo.23438279},
+  url         = {https://doi.org/10.5281/zenodo.23438279}
 }
 ```
 
